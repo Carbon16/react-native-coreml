@@ -1,5 +1,5 @@
 {
-  "name": "react-native-coreml-nitro-nitro",
+  "name": "react-native-coreml-nitro",
   "author": "Leo G Skingley <lgs1g24@soton.ac.uk>",
   "version": "0.1.2",
   "description": "React Native Nitro module bridging CoreML to JavaScript with runtime model updates",
