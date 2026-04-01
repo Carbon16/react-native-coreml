@@ -1,4 +1,4 @@
-# react-native-coreml
+# react-native-coreml-nitro
 
 High-performance React Native Nitro bridge for CoreML with runtime model updates.
 
@@ -48,7 +48,7 @@ For Expo SDK 52 and newer, use a plugin entry in `expo.plugins`.
    "expo": {
       "plugins": [
          [
-            "react-native-coreml",
+            "react-native-coreml-nitro",
             {
                "iosDeploymentTarget": "15.0"
             }
@@ -69,7 +69,7 @@ Add it in your app config:
    "expo": {
       "plugins": [
          [
-            "react-native-coreml",
+            "react-native-coreml-nitro",
             {
                "iosDeploymentTarget": "15.0"
             }

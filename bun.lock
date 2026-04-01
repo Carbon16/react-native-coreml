@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "react-native-coreml",
+      "name": "react-native-coreml-nitro",
       "devDependencies": {
         "nitrogen": "latest",
         "react-native-nitro-modules": "*",
